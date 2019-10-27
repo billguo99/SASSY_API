@@ -1,5 +1,5 @@
 # SASSY_API
-An API for the Student Attendance and Submission System.
+An API for the Student Attendance and Submission System. This API was developed by Keegan Crankshaw.
 
 ## Requirements
 The following is required for development:  
